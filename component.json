@@ -1,0 +1,19 @@
+{
+  "name": "ace-slider",
+  "repo": "jazzui/ace-slider",
+  "description": "Hooking up a number slider to the ace editor",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jkroso/position": "*",
+    "component/query": "*",
+    "jazzui/slider": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
